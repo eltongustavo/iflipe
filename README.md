@@ -20,7 +20,7 @@ O objetivo principal do IFlipe é instigar a curiosidade de novos jogadores aos 
 
 Na raiz deste repositório, você encontrará o arquivo em PDF do nosso livro/manual. Ele detalha todo o amplo processo de montagem do hardware (incluindo a ligação dos botões físicos via GPIO) e a configuração do software. 
 
-📥 **[Clique aqui para abrir/baixar o E-book na raiz do repositório](./Ebook - Manual de Instalação e Configuração do Retropie e Construção de um Fliperama Arcade.pdf)**
+📥 **[Clique aqui para abrir/baixar o E-book na raiz do repositório](./Ebook-Manual-IFlipe.pdf)**
 
 ---
 
