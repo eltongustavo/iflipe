@@ -18,9 +18,9 @@ O objetivo principal do IFlipe é instigar a curiosidade de novos jogadores aos 
 
 > **⚠️ IMPORTANTE:** A documentação completa do projeto está disponível de forma gratuita!
 
-Na raiz deste repositório, você encontrará o arquivo em PDF do nosso livro/manual. Ele detalha todo o amplo processo de montagem do hardware (incluindo a ligação dos botões físicos via GPIO) e a configuração do software. 
+Abaixo está o Link do Ebook disponibilizado de graça!
 
-📥 **[Clique aqui para abrir/baixar o E-book na raiz do repositório](./Ebook-Manual-IFlipe.pdf)**
+📥 **[Clique aqui para abrir/baixar o E-book]([./Ebook-Manual-IFlipe.pdf](https://eltongustavo.github.io/manual-de-instalacao-e-configuracao-do-retropie/ebook.pdf))**
 
 ---
 
