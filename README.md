@@ -18,7 +18,7 @@ O objetivo principal do IFlipe é instigar a curiosidade de novos jogadores aos 
 
 > **⚠️ IMPORTANTE:** A documentação completa do projeto está disponível de forma gratuita!
 
-[https://eltongustavo.github.io/manual-de-instalacao-e-configuracao-do-retropie/ebook.pdf](https://eltongustavo.github.io/manual-de-instalacao-e-configuracao-do-retropie/ebook.pdf).
+[https://eltongustavo.github.io/manual-de-instalacao-e-configuracao-do-retropie/ebook.pdf](https://eltongustavo.github.io/manual-de-instalacao-e-configuracao-do-retropie/ebook.pdf)
 
 
 ---
